@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+datetime
+plotly
+matplotlib
+sklearn
+pickle

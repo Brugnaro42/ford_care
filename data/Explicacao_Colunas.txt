@@ -1,0 +1,33 @@
+TIMESTAMP - Horário em que a informação foi coletada (parece não estar formatado)
+MARK - Marca do carro
+MODEL - Modelo do carro
+CAR_YEAR - Ano do carro
+ENGINE_POWER - Cavalo-força do motor
+AUTOMATIC - Modelo automático ou não
+VEHICLE_ID - Identificação do modelo
+BAROMETRIC_PRESSURE(KPA) - Pressão do pneu
+ENGINE_COOLANT_TEMP - Temperatura do líquido do radiador. (Tem função de arrefecimento)
+FUEL_LEVEL - Nível do combustível
+ENGINE_LOAD - Carga que o motor está tendo (Podemos usar para medir estresse das peças)
+AMBIENT_AIR_TEMP - Temperatura do ambiente
+ENGINE_RPM - Rotações por minuto do motor
+INTAKE_MANIFOLD_PRESSURE - Pressão do componente que fornece a mistura de combustível e ar para os pistões
+MAF - Sensor de fluxo de ar
+LONG TERM FUEL TRIM BANK 2 - 
+FUEL_TYPE - 
+AIR_INTAKE_TEMP - 
+FUEL_PRESSURE - 
+SPEED - 
+SHORT TERM FUEL TRIM BANK 2 - 
+SHORT TERM FUEL TRIM BANK 1 - 
+ENGINE_RUNTIME - 
+THROTTLE_POS - 
+DTC_NUMBER - 
+TROUBLE_CODES - 
+TIMING_ADVANCE - 
+EQUIV_RATIO - 
+MIN - 
+HOURS - 
+DAYS_OF_WEEK - 
+MONTHS - 
+YEAR - 
